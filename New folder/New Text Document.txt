@@ -1,0 +1,84 @@
+               <section class="produktet">
+                    <h1>Ofertat Tona:</h1>
+                    <p>Disa nga ofertat te cilat ne i ofrojmë</p>
+                    <div class="row">
+                    <div class="produktet-col">
+                        <h3>Midea</h3>
+                        <img src="ofertat/oferta1.png">
+                        <p>Klimë Midea 18000 Inverter -25°
+                            <br>
+                            Çmimi : 910€ </p>
+                            <br>
+                        <a href="https://www.facebook.com/klimaeng.ks" class="hero2-btn">Blej Tani</a>
+                    </div>
+                    <div class="produktet-col">
+                        <h3>Bruno</h3>
+                        <img src="ofertat/oferta2.png">
+                        <p>Klimë Bruno 12000 Inverter -20°
+                            <br>
+                            Çmimi : 450€ </p><br>
+                            <a href="https://www.facebook.com/klimaeng.ks" class="hero2-btn">Blej Tani</a>
+                    </div>
+                    <div class="produktet-col">
+                        <h3>Vivax</h3>
+                        <img src="ofertat/oferta3.png">
+                        <p>Klimë Vivax 12000 Inverter -20°
+                            <br>
+                            Çmimi : 650€</p><br>
+                            <a href="https://www.facebook.com/klimaeng.ks" class="hero2-btn">Blej Tani</a>
+                    </div>
+                    <div class="produktet-col">
+                        <h3>Midea</h3>
+                        <img src="ofertat/oferta4.png">
+                        <p>Klimë Midea 12000 Inverter -25°
+                            <br>
+                            Çmimi : 710€</p><br>
+                            <a href="https://www.facebook.com/klimaeng.ks" class="hero2-btn">Blej Tani</a>
+                    </div>
+                    </div>
+                </section>
+        <!-------------------Produktet2----------------------->
+                <section class="produktet2">
+                    <div class="row">
+                        <div class="produktet2-col">
+                            <h3>Bruno</h3>
+                            <img src="ofertat/oferta5.png">
+                            <p>Klimë Bruno 18000 Inverter -20°<br>
+                                Çmimi : 750€</p>
+                                <a href="https://www.facebook.com/klimaeng.ks" class="hero2-btn">Blej Tani</a>
+                        </div>
+                        <div class="produktet2-col">
+                            <h3>Bruno</h3>
+                            <img src="ofertat/oferta6.png">
+                            <p>Klimë Bruno 18000 Inverter -20°<br>
+                                Çmimi : 750€</p>
+                                <a href="https://www.facebook.com/klimaeng.ks" class="hero2-btn">Blej Tani</a>
+                        </div>
+                        <div class="produktet2-col">
+                            <h3>Midea</h3>
+                            <img src="ofertat/oferta7.png">
+                            <p>Klimë Midea 12000 Inverter -25°<br>
+                                Çmimi : 450€ </p>
+                                <a href="https://www.facebook.com/klimaeng.ks" class="hero2-btn">Blej Tani</a>
+                        </div>
+                        <div class="produktet2-col">
+                            <h3>Vivax</h3>
+                            <img src="ofertat/oferta8.png">
+                            <p>Klimë Vivax 12000 Inverter -25°<br>
+                                Çmimi : 850€</p>
+                                <a href="https://www.facebook.com/klimaeng.ks" class="hero2-btn">Blej Tani</a>
+                        </div>
+                    </div>
+                </section>
+        <!-------------------Produktet3----------------------->
+                <section class="produktet3">
+                    <div class="row">
+                        <div class="produktet3-col">
+                            <h3>Bruno</h3>
+                            <img src="ofertat/oferta9.png">
+                            <p>Klimë Bruno 24000 Floor Standing -20°<br>
+                                Çmimi : 1000€  </p>
+                                <a href="https://www.facebook.com/klimaeng.ks" class="hero2-btn">Blej Tani</a>
+                        </div>
+                    </div>
+                </section

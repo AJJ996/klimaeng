@@ -1,0 +1,218 @@
+ <!------------Produktet----------->
+            <section class="product">     
+                <div class="product-container">
+                    <div class="product-card">
+                        <div class="product-image">
+                            <span class="discount-tag">-30€ Zbritje</span>
+                            <img src="ofertat/oferta1.png" class="product-thumb" alt="">
+                            <button class="card-btn">add to wishlist</button>
+                        </div>
+                        <div class="product-info">
+                            <h2 class="product-brand">Midea</h2>
+                            <p class="product-short-description">Klimë Midea 18000 Inverter -25°C</p>
+                            <span class="price">870€</span><span class="actual-price">900€</span>
+                        </div>
+                    </div>
+    
+                    <div class="product-card">
+                        <div class="product-image">
+                            <span class="discount-tag">-30€ Zbritje</span>
+                            <img src="ofertat/oferta2.png" class="product-thumb" alt="">
+                            <button class="card-btn">add to wishlist</button>
+                        </div>
+                        <div class="product-info">
+                            <h2 class="product-brand">Bruno</h2>
+                            <p class="product-short-description">Klimë Bruno 12000 Inverter -20°C</p>
+                            <span class="price">450€</span><span class="actual-price">480€</span>
+                        </div>
+                    </div>
+    
+                    <div class="product-card">
+                        <div class="product-image">
+                            <span class="discount-tag">-50€ Zbritje</span>
+                            <img src="ofertat/oferta3.png" class="product-thumb" alt="">
+                            <button class="card-btn">add to wishlist</button>
+                        </div>
+                        <div class="product-info">
+                            <h2 class="product-brand">Vivax</h2>
+                            <p class="product-short-description">Klimë Vivax 12000 Inverter -20°C</p>
+                            <span class="price">670€</span><span class="actual-price">720€</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!---------produktet 2----------->
+            <section class="product">     
+                <div class="product-container">
+                    <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag">TOP</span>
+                                <img src="ofertat/oferta4.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Midea</h2>
+                                <p class="product-short-description">Klimë Midea 12000 Inverter -25°C</p>
+                                <span class="price">730€</span><span class="actual-price"></span>
+                            </div>
+                        </div>
+        
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag">-20€ Zbritje</span>
+                                <img src="ofertat/oferta5.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Bruno</h2>
+                                <p class="product-short-description">Klimë Bruno 18000 Inverter -20°C</p>
+                                <span class="price">750€</span><span class="actual-price">770€</span>
+                            </div>
+                        </div>
+        
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag">New</span>
+                                <img src="ofertat/oferta10.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Gaia</h2>
+                                <p class="product-short-description">Klimë Gaia 12000 Inverter -25°C</p>
+                                <span class="price">950€</span><span class="actual-price"></span>
+                            </div>
+                        </div>
+                </div>
+            </section>
+
+            <!------Produktet 3-------->
+            <section class="product">     
+                <div class="product-container">
+                    <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag"></span>
+                                <img src="ofertat/oferta7.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Midea</h2>
+                                <p class="product-short-description">Klimë Midea 12000 Inverter -25°C</p>
+                                <span class="price">670€</span><span class="actual-price"></span>
+                            </div>
+                        </div>
+        
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag">NEW</span>
+                                <img src="ofertat/oferta8.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Vivax</h2>
+                                <p class="product-short-description">Klimë Vivax 12000 Inverter -25°C</p>
+                                <span class="price">850€</span><span class="actual-price"></span>
+                            </div>
+                        </div>
+        
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag">-100€ Zbritje</span>
+                                <img src="ofertat/oferta9.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Bruno</h2>
+                                <p class="product-short-description">Klimë Bruno 24000 Floor Standing -20°C</p>
+                                <span class="price">1400€</span><span class="actual-price">1500€</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!------produktet 4--------->
+                <section class="product">     
+                    <div class="product-container">
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag"></span>
+                                <img src="ofertat/oferta14.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Bruno</h2>
+                                <p class="product-short-description">Klimë Bruno Kasetore Inverter -25°C</p>
+                                <span class="price">670€</span><span class="actual-price"></span>
+                            </div>
+                        </div>
+        
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag"></span>
+                                <img src="ofertat/oferta15.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Vivax</h2>
+                                <p class="product-short-description">Klimë Vivax 12000 Inverter -25°C</p>
+                                <span class="price">850€</span><span class="actual-price"></span>
+                            </div>
+                        </div>
+        
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag">NEW</span>
+                                <img src="ofertat/oferta16.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Midea</h2>
+                                <p class="product-short-description">Klimë Midea Inverter</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-------Produktet 5--------->
+                <section class="product">     
+                    <div class="product-container">
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag"></span>
+                                <img src="ofertat/oferta11.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">M-Thermal</h2>
+                                <p class="product-short-description">Pompë Termike M-thermal ArcticSeries -25°C 16KW</p>
+                                <span class="price">5800€</span><span class="actual-price"></span>
+                            </div>
+                        </div>
+        
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag"></span>
+                                <img src="ofertat/oferta13.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Midea</h2>
+                                <p class="product-short-description">Bojler Midea 10L</p>
+                                <span class="price">--</span><span class="actual-price"></span>
+                            </div>
+                        </div>
+        
+                        <div class="product-card">
+                            <div class="product-image">
+                                <span class="discount-tag"></span>
+                                <img src="ofertat/oferta12.png" class="product-thumb" alt="">
+                                <button class="card-btn">add to wishlist</button>
+                            </div>
+                            <div class="product-info">
+                                <h2 class="product-brand">Dual-Tank</h2>
+                                <p class="product-short-description">Bojler Dual-Tank Horizontal dhe Veritkal</p>
+                                <span class="price">--</span><span class="actual-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
